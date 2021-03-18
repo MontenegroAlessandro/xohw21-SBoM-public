@@ -1,4 +1,4 @@
-# xhow21-SfAl-public
+# xhow21-SBaM-public
 **Politecnico di Milano**
 
 Advanced Computer Architectures 2021
